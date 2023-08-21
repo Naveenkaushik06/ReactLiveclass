@@ -1,0 +1,7 @@
+// .hintrc
+{
+    "browserslist": [
+        "defaults",
+        "not IE 11"
+    ]
+}

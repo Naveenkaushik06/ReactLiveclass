@@ -1,0 +1,34 @@
+{
+  "name": "reactliveclass",
+  "version": "1.0.0",
+  "description": "This is a live course",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "just"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naveenkaushik06/ReactLiveclass.git"
+  },
+  "author": "Naveen Kumar Kaushik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Naveenkaushik06/ReactLiveclass/issues"
+  },
+  "homepage": "https://github.com/Naveenkaushik06/ReactLiveclass#readme",
+  "devDependencies": {
+    "@babel/core": "^7.22.10",
+    "@babel/preset-react": "^7.22.5",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
